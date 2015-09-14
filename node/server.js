@@ -38,7 +38,9 @@ Server = {
         this.writeFile(filename, data);
     },
     writeFile: function(fileName, data) {
-        fs.writeFile(fileName, data, function(err) {
+        var data = data.replace(/^data:image\/\w+;base64,/, '');
+        var dataBuffer = new Buffer(data, 'base64');
+        fs.writeFile(fileName, dataBuffer, function(err) {
             if (err) throw err;
             console.log('It\'s write to ' + fileName + '!');
         });
