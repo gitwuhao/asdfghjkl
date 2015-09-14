@@ -22,9 +22,16 @@ Server = {
     },
     doFormFields: function(fields) {
         var id = fields.id;
+        var shop = fields.shop;
         var filename = fields.filename;
         var data = fields.data;
-        var dir = path.resolve(path.join(this.root, id));
+
+        var dir = path.resolve(path.join(this.root, shop||''));
+        if (!fs.existsSync(dir)) {
+            fs.mkdirSync(dir);
+        }
+
+        dir = path.resolve(path.join(dir, id));
         if (!fs.existsSync(dir)) {
             fs.mkdirSync(dir);
         }
@@ -34,17 +41,23 @@ Server = {
         }
 
         filename = path.resolve(path.join(dir, filename));
-
-        this.writeFile(filename, data);
+        if (fields.type == 'image') {
+            this.writeImageFile(filename, data);
+        } else {
+            this.writeFile(filename, data);
+        }
     },
     writeFile: function(fileName, data) {
-        var data = data.replace(/^data:image\/\w+;base64,/, '');
-        var dataBuffer = new Buffer(data, 'base64');
-        fs.writeFile(fileName, dataBuffer, function(err) {
+        fs.writeFile(fileName, data, function(err) {
             if (err) throw err;
             console.log('It\'s write to ' + fileName + '!');
         });
+    },
+    writeImageFile: function(fileName, data) {
+        var data = data.replace(/^data:image\/\w+;base64,/, '');
+        var dataBuffer = new Buffer(data, 'base64');
+        this.writeFile(fileName, dataBuffer);
     }
 };
 
-Server.init();
+Server.init('../');
