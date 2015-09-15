@@ -19,7 +19,7 @@ main = {
         var me = this;
         this.root = path.normalize(path.resolve(root || rootDir));
 
-        uploadModule.init(this.root);
+        uploadModule.init(this.root + '/data');
 
         staticServer = new serverModule.Server(rootDir);
         httpServer = http.createServer(function(req, res) {
