@@ -3,6 +3,9 @@
     "devDependencies": {
         "formidable": "1.0.17"
     },
+    "dependencies": {
+        "mime": ">=1.2.9"
+    },
     "engines": {
         "node": ">=0.8.0"
     },

@@ -1,3 +1,3 @@
-node server.js
+node index.js
 pause
 cmd
