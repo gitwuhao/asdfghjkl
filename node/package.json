@@ -1,5 +1,5 @@
 {
-    "name": "server",
+    "name": "index",
     "devDependencies": {
         "formidable": "1.0.17"
     },
