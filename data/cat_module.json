@@ -1,0 +1,51 @@
+{
+    "success": true,
+    "message": null,
+    "module": {
+        "total": 2,
+        "hasPicture": false,
+        "cat_num": 2,
+        "page": 1,
+        "cat_module": [{
+            "sellerId": "346360614",
+            "picturePath": null,
+            "pictureCategoryName": "SD1231",
+            "sorts": 0,
+            "type": 2,
+            "deleted": 0,
+            "total": null,
+            "gmtCreate": 1442372173000,
+            "gmtModified": 1442372173000,
+            "parentId": "106141122482859956",
+            "pictureCategoryId": "106141122488879189",
+            "options": 0,
+            "featuresMap": {},
+            "spaceId": 0,
+            "fileType": 0,
+            "mountSpaceId": null,
+            "from": "pic"
+        }, {
+            "sellerId": "346360614",
+            "picturePath": null,
+            "pictureCategoryName": "MQ1040",
+            "sorts": 0,
+            "type": 2,
+            "deleted": 0,
+            "total": null,
+            "gmtCreate": 1442371974000,
+            "gmtModified": 1442372044000,
+            "parentId": "106141122482859956",
+            "pictureCategoryId": "106141122488096628",
+            "options": 0,
+            "featuresMap": {},
+            "spaceId": 0,
+            "fileType": 0,
+            "mountSpaceId": null,
+            "from": "pic"
+        }],
+        "pageSize": null,
+        "type": -1,
+        "file_module": []
+    },
+    "crsToken": "diN1l0InMZDBva2"
+}
