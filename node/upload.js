@@ -11,11 +11,12 @@ var Upload = {
         var filename = form.filename || '';
         var data = form.data;
         var isImage = filename.match(/.(png|jpg|gif)$/i);
+
         var dir = path.resolve(path.join(this.root, shop || ''));
         if (!fs.existsSync(dir)) {
             fs.mkdirSync(dir);
         }
-
+		
         dir = path.resolve(path.join(dir, id || ''));
         if (!fs.existsSync(dir)) {
             fs.mkdirSync(dir);
