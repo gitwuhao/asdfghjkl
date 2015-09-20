@@ -1,0 +1,339 @@
+{
+    "defaultModel": {
+        "customResourceDO": {
+            "success": true
+        },
+        "deliveryDO": {
+            "areaId": 440300,
+            "deliveryAddress": "山东济南",
+            "deliverySkuMap": {
+                "default": [{
+                    "arrivalNextDay": false,
+                    "postage": "快递: 12.0",
+                    "postageFree": false,
+                    "skuDeliveryAddress": "山东济南",
+                    "type": 0
+                }]
+            },
+            "destination": "深圳市",
+            "success": true
+        },
+        "detailPageTipsDO": {
+            "crowdType": 0,
+            "hideIcons": false,
+            "jhs99": false,
+            "minicartSurprise": 0,
+            "priceDisplayType": 0,
+            "primaryPicIcons": [],
+            "prime": false,
+            "showDou12CornerIcon": false,
+            "success": true
+        },
+        "doubleElevenDO": {
+            "doubleElevenItem": false,
+            "halfOffItem": false,
+            "showAtmosphere": false,
+            "showRightRecommendedArea": false,
+            "step": 0,
+            "success": true
+        },
+        "gatewayDO": {
+            "changeLocationGateway": {
+                "i_channel": "130000jhs",
+                "queryDelivery": true,
+                "queryProm": false
+            },
+            "success": true,
+            "trade": {
+                "addToBuyNow": {},
+                "addToCart": {}
+            }
+        },
+        "inventoryDO": {
+            "hidden": false,
+            "icTotalQuantity": 1000,
+            "skuQuantity": {
+                "82913345106": {
+                    "quantity": 152,
+                    "totalQuantity": 152,
+                    "type": 1
+                },
+                "82913345107": {
+                    "quantity": 345,
+                    "totalQuantity": 345,
+                    "type": 1
+                },
+                "82913345108": {
+                    "quantity": 363,
+                    "totalQuantity": 363,
+                    "type": 1
+                },
+                "82913345109": {
+                    "quantity": 302,
+                    "totalQuantity": 302,
+                    "type": 1
+                },
+                "3106551827131": {
+                    "quantity": 40,
+                    "totalQuantity": 40,
+                    "type": 1
+                }
+            },
+            "success": true,
+            "totalQuantity": 1202,
+            "type": 1
+        },
+        "itemPriceResultDO": {
+            "areaId": 440300,
+            "duo11Item": false,
+            "duo11Stage": 0,
+            "extraPromShowRealPrice": false,
+            "halfOffItem": false,
+            "hasDPromotion": false,
+            "hasMobileProm": false,
+            "hideMeal": false,
+            "priceInfo": {
+                "3106551827131": {
+                    "areaSold": true,
+                    "price": "278.00",
+                    "suggestivePromotionList": [{
+                        "amountPromLimit": 0,
+                        "canBuyCouponNum": 0,
+                        "endTime": 1443056399000,
+                        "extraPromTextType": 0,
+                        "extraPromType": 0,
+                        "gift": "",
+                        "limitProm": false,
+                        "postageFree": false,
+                        "price": "138.00",
+                        "promType": "jhs",
+                        "start": false,
+                        "startTime": 1442887200000,
+                        "status": 1,
+                        "tfCartSupport": false,
+                        "tmallCartSupport": false,
+                        "type": "聚划算",
+                        "unLogBrandMember": false,
+                        "unLogShopVip": false,
+                        "unLogTbvip": false
+                    }]
+                },
+                "82913345106": {
+                    "areaSold": true,
+                    "price": "278.00",
+                    "suggestivePromotionList": [{
+                        "amountPromLimit": 0,
+                        "canBuyCouponNum": 0,
+                        "endTime": 1443056399000,
+                        "extraPromTextType": 0,
+                        "extraPromType": 0,
+                        "gift": "",
+                        "limitProm": false,
+                        "postageFree": false,
+                        "price": "138.00",
+                        "promType": "jhs",
+                        "start": false,
+                        "startTime": 1442887200000,
+                        "status": 1,
+                        "tfCartSupport": false,
+                        "tmallCartSupport": false,
+                        "type": "聚划算",
+                        "unLogBrandMember": false,
+                        "unLogShopVip": false,
+                        "unLogTbvip": false
+                    }]
+                },
+                "82913345107": {
+                    "areaSold": true,
+                    "price": "278.00",
+                    "suggestivePromotionList": [{
+                        "amountPromLimit": 0,
+                        "canBuyCouponNum": 0,
+                        "endTime": 1443056399000,
+                        "extraPromTextType": 0,
+                        "extraPromType": 0,
+                        "gift": "",
+                        "limitProm": false,
+                        "postageFree": false,
+                        "price": "138.00",
+                        "promType": "jhs",
+                        "start": false,
+                        "startTime": 1442887200000,
+                        "status": 1,
+                        "tfCartSupport": false,
+                        "tmallCartSupport": false,
+                        "type": "聚划算",
+                        "unLogBrandMember": false,
+                        "unLogShopVip": false,
+                        "unLogTbvip": false
+                    }]
+                },
+                "82913345108": {
+                    "areaSold": true,
+                    "price": "278.00",
+                    "suggestivePromotionList": [{
+                        "amountPromLimit": 0,
+                        "canBuyCouponNum": 0,
+                        "endTime": 1443056399000,
+                        "extraPromTextType": 0,
+                        "extraPromType": 0,
+                        "gift": "",
+                        "limitProm": false,
+                        "postageFree": false,
+                        "price": "138.00",
+                        "promType": "jhs",
+                        "start": false,
+                        "startTime": 1442887200000,
+                        "status": 1,
+                        "tfCartSupport": false,
+                        "tmallCartSupport": false,
+                        "type": "聚划算",
+                        "unLogBrandMember": false,
+                        "unLogShopVip": false,
+                        "unLogTbvip": false
+                    }]
+                },
+                "82913345109": {
+                    "areaSold": true,
+                    "price": "278.00",
+                    "suggestivePromotionList": [{
+                        "amountPromLimit": 0,
+                        "canBuyCouponNum": 0,
+                        "endTime": 1443056399000,
+                        "extraPromTextType": 0,
+                        "extraPromType": 0,
+                        "gift": "",
+                        "limitProm": false,
+                        "postageFree": false,
+                        "price": "138.00",
+                        "promType": "jhs",
+                        "start": false,
+                        "startTime": 1442887200000,
+                        "status": 1,
+                        "tfCartSupport": false,
+                        "tmallCartSupport": false,
+                        "type": "聚划算",
+                        "unLogBrandMember": false,
+                        "unLogShopVip": false,
+                        "unLogTbvip": false
+                    }]
+                }
+            },
+            "queryProm": false,
+            "success": true,
+            "tmallShopProm": [{
+                "campaignId": 66624088,
+                "campaignName": "召集满399减50",
+                "campaignUrl": "//marketing.tmall.com/home/tsp/page.htm?id=66624088_70986937",
+                "endTime": "1443056400000",
+                "houseHoldFor618": false,
+                "participateType": 1,
+                "promPlan": [{
+                    "msg": "满399元,省50元"
+                }, {
+                    "detailMsg": [{
+                        "method": {
+                            "discount": {
+                                "quota": "50",
+                                "selected": true
+                            },
+                            "discountQuota": "50",
+                            "man": "399",
+                            "selectFlowWallet": false,
+                            "selectMusicPack": false,
+                            "selectTelCharge": false,
+                            "selectedDiscount": true,
+                            "selectedEbook": false,
+                            "selectedGift": false,
+                            "selectedGiftPool": false,
+                            "selectedLogistics": false,
+                            "selectedShopCoupon": false,
+                            "shopCouponValid": false
+                        },
+                        "promotionLevel": 1,
+                        "quantity": "399"
+                    }],
+                    "msg": "",
+                    "participateType": 1,
+                    "unit": 2
+                }],
+                "promPlanMsg": ["满399元,省50元"],
+                "startTime": "1442887200000",
+                "warmUp": true
+            }]
+        },
+        "jhsDO": {
+            "activityPrice": "138.00",
+            "currentTime": 1442715850277,
+            "groupId": 10000010926709,
+            "itemStatus": 0,
+            "limitNum": 5,
+            "originalPrice": "278.00",
+            "remainTime": 171349723,
+            "success": true
+        },
+        "memberRightDO": {
+            "activityType": 0,
+            "level": 0,
+            "postageFree": false,
+            "shopMember": false,
+            "success": true,
+            "time": 1,
+            "value": 0.5
+        },
+        "miscDO": {
+            "bucketId": 3,
+            "city": "深圳",
+            "cityId": 440300,
+            "hasCoupon": false,
+            "region": "罗湖区",
+            "regionId": 440303,
+            "smartBannerFlag": "top",
+            "success": true,
+            "systemTime": "1442715850277",
+            "town": "桂园街道",
+            "townId": 440303001
+        },
+        "progressiveInfoDO": {
+            "double11Privilege": -1,
+            "progressiveEnable": false,
+            "rateMap": {},
+            "showProgressivePlan": false,
+            "success": true,
+            "tipType": -1,
+            "tryBeforeBuy": false
+        },
+        "rateDO": {
+            "rateCounts": 6030,
+            "success": true
+        },
+        "sellCountDO": {
+            "sellCount": 258,
+            "success": true
+        },
+        "soldAreaDataDO": {
+            "success": true
+        },
+        "tradeParams": {},
+        "tradeResult": {
+            "cartEnable": false,
+            "cartType": 2,
+            "miniTmallCartEnable": true,
+            "startTime": 1442301444000,
+            "success": true,
+            "tradeBtnText": "商品无法购买",
+            "tradeDisableTypeEnum": 2,
+            "tradeEnable": false,
+            "tradeType": 2
+        },
+        "userInfoDO": {
+            "activeStatus": 0,
+            "loginUserType": "buyer",
+            "success": true,
+            "userId": 0
+        }
+    },
+    "isSuccess": true,
+    "new": true,
+    "success": true
+}

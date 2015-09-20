@@ -1,0 +1,323 @@
+{
+    "tradeParams": {
+        "_input_charset": "utf-8",
+        "etm": "post",
+        "buyNow": "true"
+    },
+    "tradeConfig": {
+        "1": "//h5.m.taobao.com/awp/base/buy.htm",
+        "2": "//buy.m.tmall.com/order/confirmOrderWap.htm"
+    },
+    "isTmallComboSupport": false,
+    "storePacket": null,
+    "cmCatId": "-1",
+    "valCartInfo": {
+        "cartUrl": "//h5.m.taobao.com/awp/base/cart.htm",
+        "itemId": "26449800400",
+        "statsUrl": "//go.mmstat.com/1.gif?logtype=2&category=cart_{loc}_50000557"
+    },
+    "detail": {
+        "cdn75": false,
+        "isIFCShop": false,
+        "tryReportDisable": false,
+        "addressLevel": 2,
+        "buyNowStatus": 2,
+        "pageType": "default",
+        "isCarService": false,
+        "timeKillAuction": false,
+        "quantityList": null,
+        "isShowEcityDesc": false,
+        "isHiddenShopAction": false,
+        "canEditInItemDet": true,
+        "isShowContentModuleTitle": false,
+        "isShowPreClosed": false,
+        "isHasPos": false,
+        "isAlicomMasterCard": false,
+        "goNewAuctionFlow": false,
+        "isHidePoi": false,
+        "isVitual3C": false,
+        "isNewMedical": false,
+        "show9sVideo": true,
+        "isSkuMemorized": false,
+        "isCarYuEBao": false,
+        "defaultItemPrice": "278.00",
+        "showDiscountRecommend": false,
+        "loginBeforeCart": false,
+        "reviewListType": 1,
+        "isNewAttraction": true,
+        "isPrescriptionDrug": false,
+        "isH5NewLogin": true,
+        "allowRate": true,
+        "shopSameCategoryUrl": "//amh.tmall.com?search=y&categoryp=50000557&detail_nid=26449800400",
+        "isNextDayService": false,
+        "isAutoFinancing": false,
+        "isHkItem": false,
+        "autoccUser": false,
+        "isPreSellBrand": false,
+        "isAliTelecomNew": false,
+        "canBuyInMobile": true,
+        "isContractPhoneItem": false,
+        "isShowEcityVerticalSign": false,
+        "isHkO2OItem": false,
+        "is0YuanBuy": false,
+        "isTeMai": false,
+        "isCyclePurchase": false,
+        "isItemAllowSellerView": true,
+        "isHasQualification": false,
+        "isShowEcityBasicSign": false,
+        "isRegionLevel": false,
+        "isDownShelf": false,
+        "isAllowReport": true
+    },
+    "valFlashUrl": "//cloud.video.taobao.com/video/play/v/2006/sid/10528282/uid/849727411/from/2/f/video.swf",
+    "isWTContract": false,
+    "api": {
+        "myUrl": "//h5.m.taobao.com/my/index.htm#!myTaobao",
+        "barterUrl": "//suggest.taobao.com/sug?area=app_detail&nid=26449800400",
+        "descUrl": "//dsc.taobaocdn.com/i8/260/491/26449800400/TB11aVnJFXXXXXFXpXX8qtpFXlX.desc%7Cvar%5Edesc%3Bsign%5Ef2d1d988a05122244b426e771e224b20%3Blang%5Egbk%3Bt%5E1442629701",
+        "recommendUrl": "//aldcdn.tmall.com/recommend.htm?appId=03126&itemId=26449800400",
+        "rateUrl": "//rate.tmall.com/list_detail_rate.htm",
+        "reUrl": "//u.m.taobao.com/reg/newUser.htm?pds=reg%23h%23",
+        "logOutUrl": "//login.m.taobao.com/logout.htm?pds=logout%23h%23",
+        "propertyUrl": "//mdetail.tmall.com/mobile/itemPackage.do?itemId=26449800400",
+        "addFavUrl": "//fav.m.tmall.com/to_collection.htm?xid=0db2&pds=addfav#h#detail&itemNumId=26449800400",
+        "httpsDescUrl": "//desc.alicdn.com/i8/260/491/26449800400/TB11aVnJFXXXXXFXpXX8qtpFXlX.desc%7Cvar%5Edesc%3Bsign%5Ef2d1d988a05122244b426e771e224b20%3Blang%5Egbk%3Bt%5E1442629701",
+        "loginUrl": "//login.tmall.com/?",
+        "joinTgUrl": "http://mdskip.m.tmall.com/mobile/joinTg.do?itemId=26449800400"
+    },
+    "rstShopId": 70986937,
+    "itemDO": {
+        "rootCatId": "30",
+        "itemTaxRate": null,
+        "categoryId": "50000557",
+        "isSecondKillFromPCAndWap": false,
+        "brandId": "4533216",
+        "progressiveSupport": "false",
+        "location": "山东",
+        "mainPic": "//img.alicdn.com/bao/uploaded/i4/TB15MZ2JpXXXXbWXpXXXXXXXXXX_!!0-item_pic.jpg",
+        "isBidden": false,
+        "auctionStatus": "0",
+        "newAttraction": "圆领套头 渐变色 长袖毛衣",
+        "feature": "1",
+        "shopIcon": "//img.alicdn.com/9d/47/T1bW56XllkXXartXjX.gif",
+        "isOnline": true,
+        "imgVedioUrl": null,
+        "sellerNickName": "amh%E5%AE%98%E6%96%B9%E6%97%97%E8%88%B0%E5%BA%97",
+        "baikeId": null,
+        "validatorUrl": "//store.taobao.com/tadget/shop_stats.htm",
+        "newProGroup": [{
+            "groupName": "工艺/流行",
+            "attrs": [{
+                "name": "图案",
+                "value": "其他"
+            }, {
+                "name": "细分风格",
+                "value": "精致韩风"
+            }]
+        }, {
+            "groupName": "关键信息",
+            "attrs": [{
+                "name": "上市年份季节",
+                "value": "2015年秋季"
+            }, {
+                "name": "货号",
+                "value": "OE2211"
+            }, {
+                "name": "厚薄",
+                "value": "常规"
+            }, {
+                "name": "品牌",
+                "value": "AMH"
+            }, {
+                "name": "基础风格",
+                "value": "时尚都市"
+            }]
+        }, {
+            "groupName": "其他",
+            "attrs": [{
+                "name": "适用场景",
+                "value": "休闲"
+            }, {
+                "name": "适用对象",
+                "value": "青年"
+            }]
+        }, {
+            "groupName": "版型款式",
+            "attrs": [{
+                "name": "款式细节",
+                "value": "渐变色"
+            }, {
+                "name": "款式",
+                "value": "套头"
+            }, {
+                "name": "版型",
+                "value": "直筒"
+            }, {
+                "name": "领型",
+                "value": "圆领"
+            }, {
+                "name": "袖型",
+                "value": "常规"
+            }, {
+                "name": "袖长",
+                "value": "长袖"
+            }]
+        }],
+        "quantity": 1202,
+        "isNewProGroup": true,
+        "itemId": "26449800400",
+        "title": "AMH男装韩版2015秋装新款圆领套头渐变色长袖毛衣男士OE2211稣",
+        "isInRepository": false,
+        "weight": "0",
+        "isDcAsyn": true,
+        "reservePrice": "278.00",
+        "auctionType": "b",
+        "encryptSellerId": "UOmQSMGIuMmHY",
+        "hasSku": true,
+        "attachImgUrl": [],
+        "sellProgressiveRate": "3_100_1.60;6_0_4.50;9_0_6.00",
+        "userId": "849727411",
+        "cspuCategorySwitch": false,
+        "isSecondKillFromMobile": false,
+        "isElecCouponItem": false,
+        "brandSpecialSold": "false",
+        "isSecondKillFromPC": false,
+        "isDefaultChooseTryBeforeBuy": false,
+        "isSupportTryBeforeBuy": false,
+        "imgVedioPic": null,
+        "spuId": "222960477",
+        "brandSiteId": "0",
+        "brand": "AMH",
+        "prov": "山东"
+    },
+    "cartEnable": true,
+    "valPointTimes": 1,
+    "valMode": 128,
+    "isService": false,
+    "isSevenDaysRefundment": false,
+    "tagsId": "130,385,907,1163,1227,1478,1483,1675,1803,2049,2059,2123,2187,2443,2507,2635,3019,3394,3851,3974,4107,4166,4171,4363,4491,4555,4614,4678,4801,4811,5835,5954,6145,6401,6411,6603,7105,7371,7947,8641,9153,10241,10818,11329,12737,13314,13825,15554,16321,17665,17793,17921,19841,20161,20417,20609,21057,21697,22081,22273,22337,24705,25282,28098,28353,28802,29697,29889,30337,30401,30977,31618,32577,44930,46914,57026,60418",
+    "tmallRateType": 0,
+    "valPointRate": 0.5,
+    "isAreaSell": false,
+    "apiBeans": "//count.taobao.com/counter3?keys=ICCP_1_26449800400",
+    "valItemInfo": {
+        "salesProp": {},
+        "skuExtra": {
+            "pickupPoints": null,
+            "tickets": null
+        },
+        "defSelected": [],
+        "skuName": [{
+            "id": "20509",
+            "text": "尺码",
+            "values": [{
+                "id": "28314",
+                "text": "S"
+            }, {
+                "id": "28315",
+                "text": "M"
+            }, {
+                "id": "28316",
+                "text": "L"
+            }, {
+                "id": "28317",
+                "text": "XL"
+            }, {
+                "id": "28318",
+                "text": "XXL"
+            }]
+        }, {
+            "id": "1627207",
+            "text": "颜色",
+            "values": [{
+                "id": "28332",
+                "text": "灰色"
+            }]
+        }],
+        "skuMap": {
+            ";20509:28316;1627207:28332;": {
+                "priceCent": 27800,
+                "stock": 363,
+                "price": "278.00",
+                "skuId": 82913345108
+            },
+            ";20509:28314;1627207:28332;": {
+                "price": "278.00",
+                "stock": 152,
+                "priceCent": 27800,
+                "skuId": 82913345106
+            },
+            ";20509:28318;1627207:28332;": {
+                "price": "278.00",
+                "priceCent": 27800,
+                "skuId": 3106551827131,
+                "stock": 40
+            },
+            ";20509:28315;1627207:28332;": {
+                "priceCent": 27800,
+                "skuId": 82913345107,
+                "stock": 345,
+                "price": "278.00"
+            },
+            ";20509:28317;1627207:28332;": {
+                "price": "278.00",
+                "skuId": 82913345109,
+                "stock": 302,
+                "priceCent": 27800
+            }
+        },
+        "skuPics": {
+            ";1627207:28332;": "//img.alicdn.com/bao/uploaded/i1/849727411/TB2XKXGaVXXXXamXpXXXXXXXXXX_!!849727411.jpg"
+        },
+        "skuList": [{
+            "pvs": "20509:28314;1627207:28332",
+            "skuId": 82913345106,
+            "names": "S 浅灰色 "
+        }, {
+            "pvs": "20509:28315;1627207:28332",
+            "names": "M 浅灰色 ",
+            "skuId": 82913345107
+        }, {
+            "pvs": "20509:28316;1627207:28332",
+            "skuId": 82913345108,
+            "names": "L 浅灰色 "
+        }, {
+            "pvs": "20509:28317;1627207:28332",
+            "skuId": 82913345109,
+            "names": "XL 浅灰色 "
+        }, {
+            "pvs": "20509:28318;1627207:28332",
+            "skuId": 3106551827131,
+            "names": "XXL 浅灰色 "
+        }]
+    },
+    "standingDate": 0,
+    "servItemExtend": null,
+    "valTimeLeft": 198256,
+    "isMultiPoint": false,
+    "tag": {
+        "isShowHouseIcon": false,
+        "isShowTryReport": false,
+        "isShowEcityIcon": false,
+        "isAsynDesc": true,
+        "isBrandAttr": true,
+        "isShowMeiliXinde": false,
+        "isRightRecommend": true,
+        "isShowYuanchuanIcon": true,
+        "isBrandSiteRightColumn": true,
+        "isMedical": false
+    },
+    "isHouseholdService": false,
+    "isChaoshi": false,
+    "isMeiz": false,
+    "idsMod": [{
+        "name": "商品信息",
+        "anchor": "ids-tag-m-34710"
+    }, {
+        "anchor": "ids-tag-m-34714",
+        "name": "商品尺码表"
+    }, {
+        "name": "细节图",
+        "anchor": "ids-tag-m-34713"
+    }]
+};
